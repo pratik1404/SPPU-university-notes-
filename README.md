@@ -8,7 +8,7 @@ Notes available for subjects :-
 - SPM
 - ISR
 - DL
-- MC
+- Mobile Computing
 - DevOps
 
   
